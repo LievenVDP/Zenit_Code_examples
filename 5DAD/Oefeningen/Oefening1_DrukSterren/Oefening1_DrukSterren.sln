@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening1_DrukSterren", "Oefening1_DrukSterren\Oefening1_DrukSterren.csproj", "{CCE67384-708E-4C97-A61C-2120627A22D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening2_Dierentuin", "Oefening2_Dierentuin\Oefening2_Dierentuin.csproj", "{8D4F52A0-CF5A-4EA3-8A2E-96195BECAF24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE67384-708E-4C97-A61C-2120627A22D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE67384-708E-4C97-A61C-2120627A22D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE67384-708E-4C97-A61C-2120627A22D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE67384-708E-4C97-A61C-2120627A22D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4F52A0-CF5A-4EA3-8A2E-96195BECAF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4F52A0-CF5A-4EA3-8A2E-96195BECAF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4F52A0-CF5A-4EA3-8A2E-96195BECAF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4F52A0-CF5A-4EA3-8A2E-96195BECAF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {075B63C2-1C58-4C33-9A01-0E4C8E40C97D}
+	EndGlobalSection
+EndGlobal

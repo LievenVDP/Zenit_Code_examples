@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDIForm", "MDIForm\MDIForm.csproj", "{329FA648-C4FB-4F9E-9DA1-553E8E85AB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329FA648-C4FB-4F9E-9DA1-553E8E85AB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329FA648-C4FB-4F9E-9DA1-553E8E85AB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329FA648-C4FB-4F9E-9DA1-553E8E85AB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329FA648-C4FB-4F9E-9DA1-553E8E85AB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B3ECA7-655F-49AD-A1DF-55C446C4BFCA}
+	EndGlobalSection
+EndGlobal
